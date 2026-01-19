@@ -1,5 +1,8 @@
 Open regedit (Win + R > regedit)
 
+<img width="398" height="203" alt="image" src="https://github.com/user-attachments/assets/f7d62130-1703-462e-abb4-8b7a30005e98" />
+
+
 Navigate to HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run; delete keys named "RiotClient", "Riot Vanguard", or similar pointing to Riot paths
 
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run; delete keys named "RiotClient", "Riot Vanguard", or similar pointing to Riot paths.
