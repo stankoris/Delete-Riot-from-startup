@@ -8,7 +8,7 @@ Navigate to HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run dele
 <img width="485" height="747" alt="image" src="https://github.com/user-attachments/assets/36e0754d-7cbc-4e6d-ab0e-df0ac0e3fad0" />
 
 
-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run; delete keys named "RiotClient", "Riot Vanguard", or similar pointing to Riot paths.
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run delete keys named "RiotClient", "Riot Vanguard", or similar pointing to Riot paths.
 
 <img width="495" height="112" alt="image" src="https://github.com/user-attachments/assets/35135e9f-d2a7-4876-b9c9-d664dc23a6b5" />
 
